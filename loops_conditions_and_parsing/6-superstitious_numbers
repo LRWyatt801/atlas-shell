@@ -17,7 +17,7 @@ do
 			;;
 		17)
 			echo $x
-			echo bad luck form Italy
+			echo bad luck from Italy
 			;;
 		*)
 			echo $x
