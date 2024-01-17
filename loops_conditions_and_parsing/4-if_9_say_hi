@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Using an if statement in a while loop
+x=1
+while [ x<=10 ]
+do
+	if [ x=9 ];
+	then echo "Hi";
+	else echo "Best School";
+	(( x++ ))
+done
